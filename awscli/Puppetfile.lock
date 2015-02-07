@@ -1,0 +1,8 @@
+FORGE
+  remote: https://forgeapi.puppetlabs.com
+  specs:
+    stahnma-epel (1.0.2)
+
+DEPENDENCIES
+  stahnma-epel (< 2.0.0, >= 1.0.0)
+

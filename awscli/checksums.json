@@ -1,0 +1,19 @@
+{
+  "Gemfile": "355971e45970f0d43eec7239da700f36",
+  "LICENSE": "614037918d8b76eed575546e3233c2bd",
+  "Puppetfile": "ccc44c05543bf87aeba51c707fd77652",
+  "Puppetfile.lock": "646bde7f301491ea94880186d38af06d",
+  "README.md": "c71beeb2586109cd5d94f6ce244e6530",
+  "Rakefile": "47bd63c5aa7c986d83e6bc49b1f14058",
+  "Vagrantfile": "27e9ad62251492eac4072a7fa6c6a885",
+  "manifests/deps/debian.pp": "c3f2c99027a41594361bebd33bdb3a0d",
+  "manifests/deps/osx.pp": "df9788b0e74c788a89b8cae9af6dabf4",
+  "manifests/deps/redhat.pp": "93fcb927faefa517902345f59c0cb0d2",
+  "manifests/deps.pp": "d918113f17fc7241cf0cdf3d59bc1b30",
+  "manifests/init.pp": "aa57a761abba6194bf93faa52e328231",
+  "metadata.json": "0304eaaafdaaf8da249b26f0f4c3943f",
+  "spec/classes/awscli_spec.rb": "073fd984b4edb7431290c3bfe99ac566",
+  "spec/spec_helper.rb": "792eeb7aa7edafb93e2bc1d27c5e75c5",
+  "tests/init.pp": "089deaecc67c7d9940546a0683bcf2a7",
+  "tests/vagrant.pp": "bdf38fcb7d4454329575a664ee7d0c49"
+}
